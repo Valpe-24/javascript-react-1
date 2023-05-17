@@ -1,9 +1,35 @@
 * {
-    margin: 0px;
-    padding: 0px;
-    font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 2em;
+
+
+
 }
 
 body {
-    background-color: lightgray
+  background-color: lightgray;
+}
+.logo {
+  background-color: burlywood;
+}
+nav {
+  background-color: pink;
+}
+.Menu {
+  background-color: aqua;
+}
+.Food {
+  background-color: rgb(189, 189, 98);
+  
+}
+.Drink {
+  background-color: cornflowerblue;
+}
+.Dessert {
+  background-color: rgb(237, 149, 164);
+}
+footer {
+  background-color: rgb(112, 208, 112);
 }
